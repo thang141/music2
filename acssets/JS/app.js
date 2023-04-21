@@ -148,13 +148,6 @@ const playList = [
     
         },
         {
-            src:"./acssets/mp3/EmCuaNgayHomQua.mp3",
-            nameSong:"Em Của Ngày Hôm Qua",
-            singer: "Sơn Tùng-MTP ",
-            img: "https://loretofest.org/cdn/files/loi-bai-hat-em-cua-ngay-hom-qua.jpg"
-    
-        },
-        {
             src:"./acssets/mp3/HoaVoSac.mp3",
             nameSong:"Hoa Vô Sắc",
             singer: "K-ICM , Jack ",
