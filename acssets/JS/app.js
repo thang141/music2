@@ -337,6 +337,90 @@ const playList = [
             img: "https://i.ytimg.com/vi/UqKVL56IJB8/maxresdefault.jpg"
     
         },
+        {
+            src:"./mp3/changaiyeumaimotnguoi.mp3",
+            nameSong:"Chẳng Ai Yêu Mãi Một Người",
+            singer: "NB3 HOÀI BẢO ft ĐÔNG ĐẶNG",
+            img: "https://i.ytimg.com/vi/5QEUY6-BMeI/maxresdefault.jpg"
+    
+        },
+        {
+            src:"./mp3/minhanhnoinay.mp3",
+            nameSong:"Mình Anh Nơi Này",
+            singer: "NIT ft. SING",
+            img: "https://i.ytimg.com/vi/w2cEVsySsNI/maxresdefault.jpg"
+    
+        },
+        {
+            src:"./mp3/emlaconthuyencodon.mp3",
+            nameSong:"Em Là Con Thuyền Cô Đơn",
+            singer: "THÁI HỌC x CHÍ HƯỚNG",
+            img: "https://i.ytimg.com/vi/InlnBTL4qeQ/maxresdefault.jpg"
+    
+        },
+        {
+            src:"./mp3/nguoilaoi.mp3",
+            nameSong:"Người Lạ Ơi ",
+            singer: "Superbrothers x Karik x Orange",
+            img: "https://i.ytimg.com/vi/g20t_K9dlhU/maxresdefault.jpg"
+    
+        },
+        {
+            src:"./mp3/neuemcontontai.mp3",
+            nameSong:"Nếu Em Còn Tồn Tại ",
+            singer: "Trịnh Đình Quang",
+            img: "https://i.ytimg.com/vi/pA5BEWKZEqw/maxresdefault.jpg"
+    
+        },
+        {
+            src:"./mp3/thegioiaotinhyeuthat.mp3",
+            nameSong:"Thế Giới Ảo Tình Yêu Thật ",
+            singer: "Trịnh Đình Quang",
+            img: "https://i.ytimg.com/vi/cIZ1IDD35Y8/maxresdefault.jpg"
+    
+        },
+        {
+            src:"./mp3/nhunggianhnoi.mp3",
+            nameSong:"Những Gì Anh Nói ",
+            singer: "BOZITT",
+            img: "https://i.ytimg.com/vi/ntHG5LCGaxE/maxresdefault.jpg"
+    
+        },
+        {
+            src:"./mp3/thattinh.mp3",
+            nameSong:"Thất Tình ",
+            singer: "Trịnh Đình Quang",
+            img: "https://i.ytimg.com/vi/FSeGrBw5eFA/maxresdefault.jpg"
+    
+        },
+        {
+            src:"./mp3/phiasaumotcogai.mp3",
+            nameSong:"Phía Sau Một Cô Gái  ",
+            singer: "Soobin Hoàng Sơn",
+            img: "https://i.ytimg.com/vi/vCIc1g_4JWM/maxresdefault.jpg"
+    
+        },
+        {
+            src:"./mp3/gio.mp3",
+            nameSong:"Gió  ",
+            singer: "JANK",
+            img: "https://i.ytimg.com/vi/igoE062z76U/maxresdefault.jpg"
+    
+        },
+        {
+            src:"./mp3/daonuong.mp3",
+            nameSong:"Đào Nương ",
+            singer: "HOÀNG VƯƠNG",
+            img: "https://i.ytimg.com/vi/qI5wVW69mLE/maxresdefault.jpg"
+    
+        },
+        {
+            src:"./mp3/ngoai30.mp3",
+            nameSong:"Ngoài 30 ",
+            singer: "THÁI HỌC x LÊ CHÍ TRUNG",
+            img: "https://i.ytimg.com/vi/p84MfhO8w00/maxresdefault.jpg"
+    
+        },
 ]
 
 
