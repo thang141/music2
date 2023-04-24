@@ -414,6 +414,13 @@ const playList = [
             img: "https://i.ytimg.com/vi/p84MfhO8w00/maxresdefault.jpg"
     
         },
+        {
+            src:"./mp3/giuitinhyeunho.mp3",
+            nameSong:"Giửi Tình Yêu Nhỏ ",
+            singer: "Trịnh ĐÌnh Quang",
+            img: "https://i.ytimg.com/vi/dXjcjpSd2jc/maxresdefault.jpg"
+    
+        },
 ]
 
 
