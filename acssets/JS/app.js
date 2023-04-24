@@ -237,7 +237,6 @@ const playList = [
             singer: " Lou Hoàng - Miu Lê",
             img: "https://i.ytimg.com/vi/w2DBMrXJDIo/sddefault.jpg"
             
-    
         },
         {
             src:"./acssets/mp3/EmLaKeDangThuong.mp3",
