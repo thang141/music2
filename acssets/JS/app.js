@@ -232,7 +232,7 @@ const playList = [
     
         },
         {
-            src:"./mp3/Yeu1NguoiCoLe.mp3",
+            src:"./acssets/mp3/Yeu1NguoiCoLe.mp3",
             nameSong:"Yêu Một Người Có Lẽ",
             singer: " Lou Hoàng - Miu Lê",
             img: "https://i.ytimg.com/vi/w2DBMrXJDIo/sddefault.jpg"
@@ -240,182 +240,182 @@ const playList = [
     
         },
         {
-            src:"./mp3/EmLaKeDangThuong.mp3",
+            src:"./acssets/mp3/EmLaKeDangThuong.mp3",
             nameSong:"Em Là Kẻ Đáng Thương",
             singer: " Phát Huy T4",
             img: "https://i.scdn.co/image/ab67616d0000b273e6f362e9f1966e14e0056764"
     
         },
         {
-            src:"./mp3/ChangTheTimDuocEm.mp3",
+            src:"./acssets/mp3/ChangTheTimDuocEm.mp3",
             nameSong:"Chẳng Thể Tìm Được Em",
             singer: " Freak D, Reddy",
             img: "https://i.ytimg.com/vi/GA6eNcbp57A/maxresdefault.jpg"
     
         },
         {
-            src:"./mp3/ChoDoiCoDangSo.mp3",
+            src:"./acssets/mp3/ChoDoiCoDangSo.mp3",
             nameSong:"Chờ Đợi Có Đáng Sợ",
             singer: " Andiez",
             img: "https://i.ytimg.com/vi/WE05tPmCj8k/maxresdefault.jpg"
     
         },
         {
-            src:"./mp3/EmDongYIDo.mp3",
+            src:"./acssets/mp3/EmDongYIDo.mp3",
             nameSong:"Em Đồng Ý(I Do)",
             singer: "Đức Phúc-911",
             img: "https://avatar-ex-swe.nixcdn.com/song/share/2023/02/08/6/f/8/6/1675840937290.jpg"
     
         },
         {
-            src:"./mp3/FromMyHeart.mp3",
+            src:"./acssets/mp3/FromMyHeart.mp3",
             nameSong:"From My Heart",
             singer: "Kang Tae Oh",
             img: "https://i1.sndcdn.com/artworks-000105068842-74r0l5-t500x500.jpg"
     
         },
         {
-            src:"./mp3/song12.mp3",
+            src:"./acssets/mp3/song12.mp3",
             nameSong:"Đừng Lo Nhé Có Anh Đây",
             singer: "Thiên Tú",
             img: "https://i.ytimg.com/vi/xM9eGtrIGh8/maxresdefault.jpg"
     
         },
         {
-            src:"./mp3/song16.mp3",
+            src:"./acssets/mp3/song16.mp3",
             nameSong:"Em Là Nhất",
             singer: "kis x Hoàng kaye x Yahy",
             img: "https://i.ytimg.com/vi/MbGo-MkHSTs/maxresdefault.jpg"
     
         },
         {
-            src:"./mp3/song19.mp3",
+            src:"./acssets/mp3/song19.mp3",
             nameSong:"Cảm Ơn Vì Tất Cả",
             singer: "Anh Quân Idol",
             img: "https://i.ytimg.com/vi/jz2D2kJqm_8/maxresdefault.jpg"
     
         },
         {
-            src:"./mp3/song23.mp3",
+            src:"./acssets/mp3/song23.mp3",
             nameSong:"Khoan Thai",
             singer: "Khải Đăng",
             img: "https://i.ytimg.com/vi/6EnPoe2Rgps/mqdefault.jpg"
     
         },
         {
-            src:"./mp3/song4.mp3",
+            src:"./acssets/mp3/song4.mp3",
             nameSong:"Tiếng Pháo Tiễn Người",
             singer: "Hùng Quân",
             img: "https://i.ytimg.com/vi/KI6TFG0-mTY/maxresdefault.jpg"
     
         },
         {
-            src:"./mp3/song8.mp3",
+            src:"./acssets/mp3/song8.mp3",
             nameSong:"Thuyền Quyên",
             singer: "Diệu Kiên",
             img: "https://i.ytimg.com/vi/kqOybgUwTGY/maxresdefault.jpg"
     
         },
         {
-            src:"./mp3/AiLaNguoiThuongEm.mp3",
+            src:"./acssets/mp3/AiLaNguoiThuongEm.mp3",
             nameSong:"Ai Là Người Thương Em",
             singer: "Quân AP",
             img: "https://i.ytimg.com/vi/P_jk6caKnfA/maxresdefault.jpg"
     
         },
         {
-            src:"./mp3/ChiLaKhongCungNhau.mp3",
+            src:"./acssets/mp3/ChiLaKhongCungNhau.mp3",
             nameSong:"Chỉ Là Không Cùng Nhau",
             singer: "TĂNG PHÚC ft TRƯƠNG THẢO NHI",
             img: "https://i.ytimg.com/vi/UqKVL56IJB8/maxresdefault.jpg"
     
         },
         {
-            src:"./mp3/changaiyeumaimotnguoi.mp3",
+            src:"./acssets/mp3/changaiyeumaimotnguoi.mp3",
             nameSong:"Chẳng Ai Yêu Mãi Một Người",
             singer: "NB3 HOÀI BẢO ft ĐÔNG ĐẶNG",
             img: "https://i.ytimg.com/vi/5QEUY6-BMeI/maxresdefault.jpg"
     
         },
         {
-            src:"./mp3/minhanhnoinay.mp3",
+            src:"./acssets/mp3/minhanhnoinay.mp3",
             nameSong:"Mình Anh Nơi Này",
             singer: "NIT ft. SING",
             img: "https://i.ytimg.com/vi/w2cEVsySsNI/maxresdefault.jpg"
     
         },
         {
-            src:"./mp3/emlaconthuyencodon.mp3",
+            src:"./acssets/mp3/emlaconthuyencodon.mp3",
             nameSong:"Em Là Con Thuyền Cô Đơn",
             singer: "THÁI HỌC x CHÍ HƯỚNG",
             img: "https://i.ytimg.com/vi/InlnBTL4qeQ/maxresdefault.jpg"
     
         },
         {
-            src:"./mp3/nguoilaoi.mp3",
+            src:"./acssets/mp3/nguoilaoi.mp3",
             nameSong:"Người Lạ Ơi ",
             singer: "Superbrothers x Karik x Orange",
             img: "https://i.ytimg.com/vi/g20t_K9dlhU/maxresdefault.jpg"
     
         },
         {
-            src:"./mp3/neuemcontontai.mp3",
+            src:"./acssets/mp3/neuemcontontai.mp3",
             nameSong:"Nếu Em Còn Tồn Tại ",
             singer: "Trịnh Đình Quang",
             img: "https://i.ytimg.com/vi/pA5BEWKZEqw/maxresdefault.jpg"
     
         },
         {
-            src:"./mp3/thegioiaotinhyeuthat.mp3",
+            src:"./acssets/mp3/thegioiaotinhyeuthat.mp3",
             nameSong:"Thế Giới Ảo Tình Yêu Thật ",
             singer: "Trịnh Đình Quang",
             img: "https://i.ytimg.com/vi/cIZ1IDD35Y8/maxresdefault.jpg"
     
         },
         {
-            src:"./mp3/nhunggianhnoi.mp3",
+            src:"./acssets/mp3/nhunggianhnoi.mp3",
             nameSong:"Những Gì Anh Nói ",
             singer: "BOZITT",
             img: "https://i.ytimg.com/vi/ntHG5LCGaxE/maxresdefault.jpg"
     
         },
         {
-            src:"./mp3/thattinh.mp3",
+            src:"./acssets/mp3/thattinh.mp3",
             nameSong:"Thất Tình ",
             singer: "Trịnh Đình Quang",
             img: "https://i.ytimg.com/vi/FSeGrBw5eFA/maxresdefault.jpg"
     
         },
         {
-            src:"./mp3/phiasaumotcogai.mp3",
+            src:"./acssets/mp3/phiasaumotcogai.mp3",
             nameSong:"Phía Sau Một Cô Gái  ",
             singer: "Soobin Hoàng Sơn",
             img: "https://i.ytimg.com/vi/vCIc1g_4JWM/maxresdefault.jpg"
     
         },
         {
-            src:"./mp3/gio.mp3",
+            src:"./acssets/mp3/gio.mp3",
             nameSong:"Gió  ",
             singer: "JANK",
             img: "https://i.ytimg.com/vi/igoE062z76U/maxresdefault.jpg"
     
         },
         {
-            src:"./mp3/daonuong.mp3",
+            src:"./acssets/mp3/daonuong.mp3",
             nameSong:"Đào Nương ",
             singer: "HOÀNG VƯƠNG",
             img: "https://i.ytimg.com/vi/qI5wVW69mLE/maxresdefault.jpg"
     
         },
         {
-            src:"./mp3/ngoai30.mp3",
+            src:"./acssets/mp3/ngoai30.mp3",
             nameSong:"Ngoài 30 ",
             singer: "THÁI HỌC x LÊ CHÍ TRUNG",
             img: "https://i.ytimg.com/vi/p84MfhO8w00/maxresdefault.jpg"
     
         },
         {
-            src:"./mp3/giuitinhyeunho.mp3",
+            src:"./acssets/mp3/giuitinhyeunho.mp3",
             nameSong:"Giửi Tình Yêu Nhỏ ",
             singer: "Trịnh ĐÌnh Quang",
             img: "https://i.ytimg.com/vi/dXjcjpSd2jc/maxresdefault.jpg"
